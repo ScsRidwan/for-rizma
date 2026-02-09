@@ -1,0 +1,18 @@
+
+{
+  "name": "Surprise for Rizma",
+  "short_name": "ForMeme",
+  "description": "A cute, interactive surprise application for Rizma Adelia featuring memory notes and love letters.",
+  "icons": [
+    {
+      "src": "https://cdn.discordapp.com/attachments/832635225086361660/1470377328801480744/roy.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0fdfa",
+  "theme_color": "#14b8a6",
+  "requestFramePermissions": []
+}
